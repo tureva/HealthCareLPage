@@ -1,4 +1,4 @@
-# vue3capi
+# Health Care Landing Page with vue3 x Composition API
 
 This template should help get you started developing with Vue 3 in Vite.
 
